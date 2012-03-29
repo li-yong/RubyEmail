@@ -1,0 +1,28 @@
+---
+ header:
+     # importance can be "normal", "high" or "low"
+     # emails using space " " to separate.
+     # email support variable defined in _global.conf
+     # loginsmtp: true or false
+     # from should only set one email.
+     importance: high
+     from : '#{RYANA}'
+     to : '#{RYANA}'
+     cc : ryan.li@mail.corp.emc.com Li_Ryan@mail.corp.emc.com
+     bcc : 
+     subject: thanks for your hard work!
+ 
+ emailbody: |  
+      Hi <b>Ryan</b>,
+      <p>
+      this is the annual of the year.
+      <p>
+      <br>this is link to <a href="www.google.com">google</a>
+      <br>  
+          regards,
+      <br>
+          ryan
+  
+ loginsmtp: yes
+ 
+ attachment: /root/MM/attach/1.png

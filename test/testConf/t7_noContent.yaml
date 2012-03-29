@@ -1,0 +1,15 @@
+---
+ header:
+     importance: normal
+     from : '#{EMAILFROM}'
+     to : '#{EMAILTO}'
+     cc : ryan.li@emc.com Li_Ryan@emc.com
+     bcc : '#{EMAILBCC}'
+     subject: t7_noContent
+ 
+ emailbody: |  
+      
+  
+ loginsmtp: false
+ 
+ attachment: 

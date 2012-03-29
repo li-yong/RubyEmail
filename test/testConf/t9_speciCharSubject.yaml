@@ -1,0 +1,23 @@
+---
+ header:
+     priority: normal
+     from : '#{EMAILFROM}'
+     to : '#{EMAILTO}'
+     cc : ryan.li@emc.com Li_Ryan@emc.com
+     bcc : 
+     subject: "t9_sepciCharInSubj \ - : ' \" ~ !  ./"
+ 
+ emailbody: |  
+      Hi <b>Ryan</b>,
+      <p>
+      this is the annual of the year.
+      <p>
+      <br>this is link to <a href="www.google.com">google</a>
+      <br>  
+          regards,
+      <br>
+          ryan
+  
+ loginsmtp: false
+ 
+ attachment: 

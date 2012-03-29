@@ -1,0 +1,4 @@
+ConfigFile,CronString
+example.yaml,31 18 * * *
+example.yaml,31 19 * * *
+tests/t1_toCCBcc.yaml,31 19 * * *

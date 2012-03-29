@@ -1,0 +1,19 @@
+---
+ header:
+     importance: normal
+     from : '#{EMAILFROM}'
+     to : '#{EMAILTO}'
+     cc : 
+     bcc : '#{EMAILBCC}'
+     subject: 
+ 
+ emailbody: |  
+
+      <p>
+      t6_noSubject
+      <p>
+ 
+  
+ loginsmtp: false
+ 
+ attachment: 

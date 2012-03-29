@@ -1,0 +1,28 @@
+---
+ header:
+     # priority can be "normal", "urgent" or "non-Priority"
+     # emails using space " " to separate.
+     # email support variable defined in _global.conf
+     # loginsmtp: true or false
+     # from should only set one email.
+     importance: low
+     from : '#{EMAILFROM}'
+     to : '#{EMAILTO}'
+     cc : 
+     bcc : 
+     subject: tc11_priLow
+ 
+ emailbody: |  
+      Hi <b>Ryan</b>,
+      <p>
+      this is the annual of the year.
+      <p>
+      <br>this is link to <a href="www.google.com">google</a>
+      <br>  
+          regards,
+      <br>
+          ryan
+  
+ loginsmtp: false
+ 
+ attachment: 

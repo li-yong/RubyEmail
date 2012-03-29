@@ -1,0 +1,334 @@
+veryverbose, WARN, 2011-06-23 10:55:24:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:55:31:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 10:55:32:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:55:33:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 10:55:49:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:55:51:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 10:55:51:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:55:51:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 10:56:20:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:56:20:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 10:56:20:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:56:20:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 10:57:59:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:57:59:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 10:57:59:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 10:57:59:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:01:35:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:01:35:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:01:35:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:01:35:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:01:42:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:01:42:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:01:42:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:01:43:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:01:55:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:01:55:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:01:55:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:01:55:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:02:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:02:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:02:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:02:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:09:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:09:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:09:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:09:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:26:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:26:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:26:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:26:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:59:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:59:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:02:59:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:02:59:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:03:22:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:03:22:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:03:22:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:03:22:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:03:31:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:03:31:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:03:31:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:03:31:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:05:33:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:05:33:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:05:33:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:05:33:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:05:52:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:05:52:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:05:52:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:05:52:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:12:12:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:12:12:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:12:12:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:12:12:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:12:19:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:12:19:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:12:19:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:12:19:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:12:52:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:12:52:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:12:52:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:12:52:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:13:15:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:13:15:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:13:15:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:13:15:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:14:02:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:14:02:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 11:14:02:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 11:14:02:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, MSG, 2011-06-23 18:12:38:ENV[LOGLEVEL]:verbose , ENV[UTFROOT]: /root/MM
+verbose, MSG, 2011-06-23 18:12:38:
+
+=== schedule  start===
+verbose, MSG, 2011-06-23 18:12:38:	crontab -l | grep -v sendmail.rb > /tmp/tmp.eHjTCg8214
+verbose, MSG, 2011-06-23 18:12:38:	[Done]
+verbose, MSG, 2011-06-23 18:12:38:	crontab /tmp/tmp.eHjTCg8214
+verbose, MSG, 2011-06-23 18:12:38:	[Done]
+veryverbose, MSG, 2011-06-23 18:15:29:ENV[LOGLEVEL]:verbose , ENV[UTFROOT]: /root/MM
+verbose, MSG, 2011-06-23 18:15:29:
+
+=== schedule  start===
+verbose, MSG, 2011-06-23 18:15:29:	crontab -l | grep -v sendmail.rb > /tmp/tmp.ouhscr8391
+verbose, MSG, 2011-06-23 18:15:29:	[Done]
+verbose, MSG, 2011-06-23 18:15:29:	crontab /tmp/tmp.ouhscr8391
+verbose, MSG, 2011-06-23 18:15:29:	[Done]
+verbose, MSG, 2011-06-23 18:15:34:	crontab -l > /tmp/tmp.tnHwju8408
+verbose, MSG, 2011-06-23 18:15:34:	[Done]
+verbose, MSG, 2011-06-23 18:15:34:	echo '31 18 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/1yearAnnual2Ryan.yaml'  >> /tmp/tmp.tnHwju8408
+verbose, MSG, 2011-06-23 18:15:34:	[Done]
+verbose, MSG, 2011-06-23 18:15:34:	crontab /tmp/tmp.tnHwju8408
+verbose, MSG, 2011-06-23 18:15:35:	[Done]
+verbose, MSG, 2011-06-23 18:15:35:	rm -f /tmp/tmp.tnHwju8408
+verbose, MSG, 2011-06-23 18:15:35:	[Done]
+verbose, MSG, 2011-06-23 18:15:37:	crontab -l > /tmp/tmp.eRaxaq8437
+verbose, MSG, 2011-06-23 18:15:37:	[Done]
+verbose, MSG, 2011-06-23 18:15:37:	echo '31 19 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/1yearAnnual2Ryan.yaml'  >> /tmp/tmp.eRaxaq8437
+verbose, MSG, 2011-06-23 18:15:37:	[Done]
+verbose, MSG, 2011-06-23 18:15:37:	crontab /tmp/tmp.eRaxaq8437
+verbose, MSG, 2011-06-23 18:15:37:	[Done]
+verbose, MSG, 2011-06-23 18:15:37:	rm -f /tmp/tmp.eRaxaq8437
+verbose, MSG, 2011-06-23 18:15:37:	[Done]
+basic, MSG, 2011-06-23 18:15:37:=== schedule , PASSED ===
+verbose, MSG, 2011-06-23 18:15:37:	crontab -l
+verbose, MSG, 2011-06-23 18:15:37:	[Done]
+veryverbose, WARN, 2011-06-23 18:25:16:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:25:16:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:25:16:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:25:16:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:25:38:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:25:38:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:25:38:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:25:38:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:03:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:03:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:03:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:03:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:17:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:17:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:17:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:17:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:36:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:36:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:36:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:36:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:41:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:41:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:41:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:41:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:55:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:55:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:26:55:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:26:55:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:27:02:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:27:02:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:27:02:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:27:02:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:27:17:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:27:17:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:27:17:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:27:17:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:27:22:[AUTH_USR] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:27:22:AUTH_USR not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 18:27:22:[AUTH_PWD] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 18:27:22:AUTH_PWD not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-23 20:59:24:[RYANBA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-23 20:59:24:RYANBA not defined in _global.conf,consider revise test case conf file.
+veryverbose, MSG, 2011-06-24 06:24:34:ENV[LOGLEVEL]:verbose , ENV[UTFROOT]: /root/MM
+verbose, MSG, 2011-06-24 06:24:34:
+
+=== schedule  start===
+verbose, MSG, 2011-06-24 06:24:34:	crontab -l | grep -v sendmail.rb > /tmp/tmp.UlrJT22610
+verbose, MSG, 2011-06-24 06:24:34:	[Done]
+verbose, MSG, 2011-06-24 06:24:34:	crontab /tmp/tmp.UlrJT22610
+verbose, MSG, 2011-06-24 06:24:34:	[Done]
+verbose, MSG, 2011-06-24 06:24:37:	crontab -l > /tmp/tmp.SlWgc22642
+verbose, MSG, 2011-06-24 06:24:37:	[Done]
+verbose, MSG, 2011-06-24 06:24:37:	echo '31 18 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/example.yaml'  >> /tmp/tmp.SlWgc22642
+verbose, MSG, 2011-06-24 06:24:37:	[Done]
+verbose, MSG, 2011-06-24 06:24:37:	crontab /tmp/tmp.SlWgc22642
+verbose, MSG, 2011-06-24 06:24:37:	[Done]
+verbose, MSG, 2011-06-24 06:24:37:	rm -f /tmp/tmp.SlWgc22642
+verbose, MSG, 2011-06-24 06:24:37:	[Done]
+verbose, MSG, 2011-06-24 06:24:37:	crontab -l > /tmp/tmp.ytddm22671
+verbose, MSG, 2011-06-24 06:24:37:	[Done]
+verbose, MSG, 2011-06-24 06:24:37:	echo '31 19 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/example.yaml'  >> /tmp/tmp.ytddm22671
+verbose, MSG, 2011-06-24 06:24:38:	[Done]
+verbose, MSG, 2011-06-24 06:24:38:	crontab /tmp/tmp.ytddm22671
+verbose, MSG, 2011-06-24 06:24:38:	[Done]
+verbose, MSG, 2011-06-24 06:24:38:	rm -f /tmp/tmp.ytddm22671
+verbose, MSG, 2011-06-24 06:24:38:	[Done]
+basic, MSG, 2011-06-24 06:24:38:=== schedule , PASSED ===
+verbose, MSG, 2011-06-24 06:24:38:	crontab -l
+verbose, MSG, 2011-06-24 06:24:38:	[Done]
+veryverbose, MSG, 2011-06-24 06:28:59:ENV[LOGLEVEL]:verbose , ENV[UTFROOT]: /root/MM
+verbose, MSG, 2011-06-24 06:28:59:
+
+=== schedule  start===
+verbose, MSG, 2011-06-24 06:28:59:	crontab -l | grep -v sendmail.rb > /tmp/tmp.dgOfY22978
+verbose, MSG, 2011-06-24 06:28:59:	[Done]
+verbose, MSG, 2011-06-24 06:28:59:	crontab /tmp/tmp.dgOfY22978
+verbose, MSG, 2011-06-24 06:28:59:	[Done]
+verbose, MSG, 2011-06-24 06:28:59:	crontab -l > /tmp/tmp.IHxrV22995
+verbose, MSG, 2011-06-24 06:28:59:	[Done]
+verbose, MSG, 2011-06-24 06:28:59:	echo '31 18 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/example.yaml'  >> /tmp/tmp.IHxrV22995
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	crontab /tmp/tmp.IHxrV22995
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	rm -f /tmp/tmp.IHxrV22995
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	crontab -l > /tmp/tmp.LikYs23024
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	echo '31 19 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/example.yaml'  >> /tmp/tmp.LikYs23024
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	crontab /tmp/tmp.LikYs23024
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	rm -f /tmp/tmp.LikYs23024
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	crontab -l > /tmp/tmp.vmbzP23053
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	echo '31 19 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/conf/t1_toCCBcc.yaml'  >> /tmp/tmp.vmbzP23053
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	crontab /tmp/tmp.vmbzP23053
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+verbose, MSG, 2011-06-24 06:29:00:	rm -f /tmp/tmp.vmbzP23053
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+basic, MSG, 2011-06-24 06:29:00:=== schedule , PASSED ===
+verbose, MSG, 2011-06-24 06:29:00:	crontab -l
+verbose, MSG, 2011-06-24 06:29:00:	[Done]
+veryverbose, MSG, 2011-06-24 06:29:09:ENV[LOGLEVEL]:verbose , ENV[UTFROOT]: /root/MM
+verbose, MSG, 2011-06-24 06:29:09:
+
+=== schedule  start===
+verbose, MSG, 2011-06-24 06:29:09:	crontab -l | grep -v sendmail.rb > /tmp/tmp.NDgqw23116
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	crontab /tmp/tmp.NDgqw23116
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	crontab -l > /tmp/tmp.PqTjF23133
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	echo '31 18 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/example.yaml'  >> /tmp/tmp.PqTjF23133
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	crontab /tmp/tmp.PqTjF23133
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	rm -f /tmp/tmp.PqTjF23133
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	crontab -l > /tmp/tmp.jhkpy23162
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	echo '31 19 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/example.yaml'  >> /tmp/tmp.jhkpy23162
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	crontab /tmp/tmp.jhkpy23162
+verbose, MSG, 2011-06-24 06:29:09:	[Done]
+verbose, MSG, 2011-06-24 06:29:09:	rm -f /tmp/tmp.jhkpy23162
+verbose, MSG, 2011-06-24 06:29:10:	[Done]
+verbose, MSG, 2011-06-24 06:29:10:	crontab -l > /tmp/tmp.bmwGn23191
+verbose, MSG, 2011-06-24 06:29:10:	[Done]
+verbose, MSG, 2011-06-24 06:29:10:	echo '31 19 * * * cd /root/MM ;./bin/sendmail.rb --conf ./conf/tests/t1_toCCBcc.yaml'  >> /tmp/tmp.bmwGn23191
+verbose, MSG, 2011-06-24 06:29:10:	[Done]
+verbose, MSG, 2011-06-24 06:29:10:	crontab /tmp/tmp.bmwGn23191
+verbose, MSG, 2011-06-24 06:29:10:	[Done]
+verbose, MSG, 2011-06-24 06:29:10:	rm -f /tmp/tmp.bmwGn23191
+verbose, MSG, 2011-06-24 06:29:10:	[Done]
+basic, MSG, 2011-06-24 06:29:10:=== schedule , PASSED ===
+verbose, MSG, 2011-06-24 06:29:10:	crontab -l
+verbose, MSG, 2011-06-24 06:29:10:	[Done]
+veryverbose, WARN, 2011-06-24 06:47:37:[RYANC] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-24 06:47:37:RYANC not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-06-24 06:47:42:[RYANC] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-06-24 06:47:42:RYANC not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-10 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-10 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-10 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-10 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-14 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-14 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-14 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-14 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-22 18:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-22 18:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-22 18:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-22 18:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-22 19:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-22 19:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-22 19:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-22 19:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-25 18:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-25 18:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-25 18:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-25 18:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-30 18:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-30 18:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-30 18:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-30 18:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-30 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-30 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-07-30 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-07-30 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-08-18 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-08-18 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-08-18 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-08-18 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-08-18 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-08-18 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-08-18 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-08-18 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-08-22 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-08-22 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-08-22 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-08-22 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-15 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-15 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-15 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-15 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-15 19:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-15 19:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-15 19:31:01:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-15 19:31:01:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-17 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-17 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-17 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-17 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-19 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-19 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-19 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-19 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-19 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-19 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-10-19 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-10-19 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-11-04 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-11-04 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-11-04 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-11-04 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-11-26 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-11-26 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-11-26 18:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-11-26 18:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-12-27 18:31:03:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-12-27 18:31:03:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-12-27 18:31:03:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-12-27 18:31:03:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-12-27 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-12-27 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.
+veryverbose, WARN, 2011-12-27 19:31:02:[RYANA] not defined in _global.conf,consider revise test case conf file.
+verbose, WARN, 2011-12-27 19:31:02:RYANA not defined in _global.conf,consider revise test case conf file.

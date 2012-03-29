@@ -1,0 +1,23 @@
+---
+ header:
+     importance: normal
+     from : '#{EMAILFROM}'
+     to : '#{EMAILTO} ryan.li@emc.com'
+     cc : 
+     bcc : 
+     subject: t18_MultiToAliasNormal
+ 
+ emailbody: |  
+      Hi <b>Ryan</b>,
+      <p>
+      this is the annual of the year.
+      <p>
+      <br>this is link to <a href="www.google.com">google</a>
+      <br>  
+          regards,
+      <br>
+          ryan
+  
+ loginsmtp: false
+ 
+ attachment: 

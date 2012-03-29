@@ -1,0 +1,55 @@
+Steps:
+1. edit /conf/_global.conf, setup Global Variables which will be used in other scripts.
+
+   1.1 setup SMTP_SRV, eg. SMTP_SRV=10.254.64.73
+   
+   [optional] if you want setup email shortcuts which can be referenced by /conf/%confFile%.yaml,setup this
+   1.2 setup emails in format abc@emc.com. eg. RYANEMAIL=ryan.li@abc.com
+   
+   [optional] if you need login smtp server then send the email, setup following entries. 
+   1.3 setup AUTH_USR, eg. AUTH_USR=lir2@abc.com
+   1.4 setup AUTH_PWD, password of DOMAINAUTH_USR.  eg. AUTH_PWD=123457
+   1.5 setup DOMAIN, eg. DOMAIN=corp.abc.com
+
+
+
+2. edit /conf/schedule.csv, each line is one email cron task.
+   2.1 setup the ConfigFile and CronString.
+       'ConfigFile' column does not need includ path, just enter the filename of /conf/%confFile%.yaml.
+       it is suggested using meaningfull ConfigFile name for easy tell out output of `crontab -l`
+       
+   eg:       ConfigFile,CronString
+             1yearAnnual2Ryan.yaml,31 18 * * *
+             1yearAnnual2Ryan.yaml,36 20 * * *
+
+
+3. edit /conf/%confFile%.yaml, in yaml syntax, this file was specified in schedule.csv as column 'ConfigFile'.
+   3.1 header->importance can be "normal", "high" or "low", could be one of "normal", "urgent" "non-Priority".
+   3.2 header->from, could be #{variable} in _global.conf or a real email address.
+   example:  from : '#{RYANEMAIL}'
+               to : '#{RYANA} #{RYANB}'
+               cc : '#{RYANA} ryan.li@abc.com'
+   3.3 header->to, same as above
+   3.4 header->cc, same as above
+   3.5 header->bcc, same as above
+   3.6 header->subject, should support any printable character. ',#,tested.
+   3.7 emailbody, in html format, so using <p> or <br> when you want to start new line.
+   3.8 loginsmtp, true of false. 
+   3.9 attachment,absolutly path of the file. should support all kinds files, pdf,jpg,png,txt were tested.
+   
+   
+   
+4. run ./run.rb
+
+then you can check if the crontab was corrected assembled.
+Also you can manually run cron tasks to see if the email is sent.
+
+
+Notes:
+1.run.rb will overwrite all the cronjobs created by itself previously.
+  it first clean all crontab tasks which has 'sendmail.rb' keywords, then apply the tasks in conf/conf.csv file.
+
+
+Contact:
+hope you are luck enough, if not, email lir2@abc.com .
+  
