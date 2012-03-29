@@ -8,7 +8,7 @@
      importance: high
      from : '#{RYANA}'
      to : '#{RYANA}'
-     cc : ryan.li@mail.corp.emc.com Li_Ryan@mail.corp.emc.com
+     cc : ryan.li@mail.corp.abc.com Li_Ryan@mail.corp.abc.com
      bcc : 
      subject: thanks for your hard work!
  

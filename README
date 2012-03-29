@@ -4,7 +4,7 @@ Steps:
    1.1 setup SMTP_SRV, eg. SMTP_SRV=10.254.64.73
    
    [optional] if you want setup email shortcuts which can be referenced by /conf/%confFile%.yaml,setup this
-   1.2 setup emails in format abc@emc.com. eg. RYANEMAIL=ryan.li@abc.com
+   1.2 setup emails in format abc@abc.com. eg. RYANEMAIL=ryan.li@abc.com
    
    [optional] if you need login smtp server then send the email, setup following entries. 
    1.3 setup AUTH_USR, eg. AUTH_USR=lir2@abc.com
